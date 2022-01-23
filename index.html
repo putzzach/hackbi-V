@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<title>Wacky Weiner</title>
+<center>
+    <div>
+        <p style="font-size:120px; color:yellow; border-color: purple;">
+            Wacky Weiner</p>
+    </div>
+</center>
+
+<head>
+    <link rel="icon" type="image/png" href="./assets/ketchupMustard.png">
+</head>
+
+<body style="background-color:black" background='./assets/XANDER.jpg' style="background-size: cover; height: 175%">
+    <script src="./libraries/p5.min.js"></script>
+    <script src="./sketch.js" type="text/javascript"></script>
+    <script src="./scripts/car.js" type="text/javascript"></script>
+    <script src="./scripts/Line.js" type="text/javascript"></script>
+    <script src="./scripts/Log.js" type="text/javascript"></script>
+    <script src="./scripts/Cone.js" type="text/javascript"></script>
+    <script src="./scripts/Fuel.js" type="text/javascript"></script>
+    <script src="./scripts/Hamburger.js" type="text/javascript"></script>
+    <script src="./scripts/Coin.js" type="text/javascript"></script>
+
+
+
+    <div class="container" ; style="background-size: cover; height: 175%
+      ;">
+
+      <div class="wrap">Hit <span style="color: yellow">condiments</span> for fuel. Avoid <span style="color: red">hamburgers, logs, </span>and <span style="color: red">cones</span>. You have 5 lives. Collect as many <span style="color: yellow">coins</span> as you can.</div>
+
+    </div>
+    <button onClick = "leftClick();" style="background-color: red; color: red; border-radius: 50%; font-size: 70px;
+    position:absolute; bottom: -225px; left: 50px;"> oo </button>
+    <button onClick = "rightClick();" style="background-color: red; color: red; border-radius: 50%;;font-size: 70px; 
+    position:absolute; bottom: -225px; right: 50px"> oo </button>
+    <button onClick = "startClick();" style="background-color: black; color: white; border-radius: 0; font-size: 50px; 
+    position:absolute; bottom: -400px; left: 600px"> Start </button>
+    <center>
+        <p style="font-size: 20px; color:yellow; position: absolute; bottom: -440px; left: 110px">This game is a continuous mover game.
+            Collect condiments to keep going, coins to level up, and avioid obstacles at all costs.</p>
+    </center>
+</body>
+<style>
+    body {
+        background-size: cover;
+        height: 175%;
+    }
+
+    @font-face {
+        font-family: font;
+        src: url(./assets/mexcellent\ rg.otf);
+    }
+
+    div {
+        font-family: font;
+    }
+</style>
+
+</html>

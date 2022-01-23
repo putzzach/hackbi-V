@@ -1,0 +1,17 @@
+{
+    "name": "game",
+      "scripts": {
+      "start": "node server.js"
+    },
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Wacky Weiner",
+    "main": "sketch.js",
+    "repository": {
+      "type": "git",
+      "url": "idk"
+    },
+    "author": "Zach, Nathan, Xander",
+    "license": "ISC"
+  }
+  
