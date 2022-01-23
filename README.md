@@ -12,4 +12,5 @@ or
   * Double click run.bat
 ## Description
 INDEX.HTML holds webpage.
+
 sketch.js holds main javascript for game.
