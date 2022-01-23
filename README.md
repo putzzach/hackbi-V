@@ -1,6 +1,7 @@
 # Wacky Weiner
 blah
 ## Instructions
+
 1. Download and Install Node.js
 2. Download p5.js 
 3. Open command prompt and type 'npm install -g browser-sync'
