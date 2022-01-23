@@ -2,6 +2,11 @@
 blah
 ## Instructions
 
+1. Item
+2. Item
+   * Mixed
+   * Mixed  
+3. Item
 1. Download and Install Node.js
 2. Download p5.js 
 3. Open command prompt and type 'npm install -g browser-sync'
@@ -15,8 +20,4 @@ or
 INDEX.HTML holds webpage.
 
 sketch.js holds main javascript for game.
-1. Item
-2. Item
-   * Mixed
-   * Mixed  
-3. Item
+
