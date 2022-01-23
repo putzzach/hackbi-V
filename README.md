@@ -14,3 +14,8 @@ or
 INDEX.HTML holds webpage.
 
 sketch.js holds main javascript for game.
+1. Item
+2. Item
+   * Mixed
+   * Mixed  
+3. Item
