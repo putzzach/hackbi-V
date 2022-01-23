@@ -1,5 +1,7 @@
 # Wacky Weiner
-blah
+
+Car based game. Collect condiments and coins while avoiding obstacles and see how far you can make it.
+
 ## Instructions
 
 1. Download and Install Node.js
