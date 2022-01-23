@@ -9,7 +9,7 @@ blah
    * Change directory into project folder using 'cd' command
    * Type 'browser-sync start --server -f -w'
    * Open chrome and type 'http://localhost:3000' into the search bar, it should open up the website
- or
+####or####
    * Double click run.bat
 ## Description
 INDEX.HTML holds webpage.
